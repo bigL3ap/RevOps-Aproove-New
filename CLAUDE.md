@@ -1,4 +1,4 @@
-# [Client Name] — RevOps / HubSpot
+# Aproove — RevOps / HubSpot
 
 Standing instructions for every Claude Code session in this repo.
 
